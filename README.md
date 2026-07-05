@@ -1,162 +1,365 @@
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=500&color=3B82F6&center=true&vCenter=true&width=600&lines=Hey+%F0%9F%91%8B%2C+I'm+Prem+Ranjith;Product+%26+Technical+PM;Full-Stack+Builder;MF+X-Ray+Creator;From+Coimbatore%2C+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" />
-</h1>
+# 👋 Hi, I'm Prem Ranjith
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=premranjith&label=Profile%20Views&color=3B82F6&style=flat" alt="Profile views" />
-  <a href="https://github.com/premranjith?tab=followers">
-    <img src="https://img.shields.io/github/followers/premranjith?label=Followers&style=social" alt="GitHub followers" />
-  </a>
-  <a href="mailto:premranjith@email.com">
-    <img src="https://img.shields.io/badge/Contact-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=500&color=3B82F6&center=true&vCenter=true&width=900&lines=GenAI+Enterprise+Architect;Technical+Product+Manager;AI+for+Observability;Splunk+%7C+OpenTelemetry+%7C+LLMOps;Building+Production+AI+Platforms;Full-Stack+Engineer+Who+Builds+Products" />
 </p>
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" /> About Me
-
-<table>
-  <tr>
-    <td width="60%">
-      <p>
-        I'm a <strong>Technical Product Manager</strong> based in Coimbatore, India, who codes.
-        I believe the best PMs understand architecture deeply — so I build the products I manage.
-      </p>
-      <ul>
-        <li>🔭 Currently building <strong><a href="https://github.com/premranjith/mf-xray">MF X-Ray</a></strong> — an Indian mutual fund portfolio analyser (₹25K budget, 20 weekends)</li>
-        <li>🌱 Diving deep into <strong>FastAPI, Next.js, Supabase & Indian fintech</strong></li>
-        <li>👨‍💻 All my projects at <strong><a href="https://github.com/premranjith?tab=repositories">github.com/premranjith</a></strong></li>
-        <li>💬 Ask me about <strong>Product Management, Indian MFs, GenAI, AI in Observability, Python, React, and building on a budget</strong></li>
-        <li>📫 Reach me: <strong>premranjith@email.com</strong></li>
-        <li>⚡ Fun fact: I'm building a full fintech SaaS for <strong>₹25,000</strong> — less than a MacBook</li>
-      </ul>
-    </td>
-    <td width="40%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=premranjith&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6" alt="Top languages" width="100%" />
-    </td>
-  </tr>
-</table>
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="30" /> Tech Stack
-
-<h3>Frontend</h3>
-<p>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Recharts-FF6B6B?style=for-the-badge&logo=recharts&logoColor=white" />
-</p>
-
-<h3>Backend</h3>
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
-
-<h3>AI / GenAI & Observability</h3>
-<p>
-  <img src="https://img.shields.io/badge/Claude_Sonnet-FF6600?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prompt_Engineering-FF6F00?style=for-the-badge&logo=prompt&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG-4285F4?style=for-the-badge&logo=rag&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangFuse-000000?style=for-the-badge&logo=langfuse&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
-  <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" />
-</p>
-
-<h3>Infra & Tools</h3>
-<p>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude_Code-FF6600?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Razorpay-0C2451?style=for-the-badge&logo=razorpay&logoColor=white" />
-</p>
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="30" /> Featured Project
-
-### [MF X-Ray](https://github.com/premranjith/mf-x-ray) — Indian Mutual Fund Portfolio Analyser
-
-Institutional-grade MF analysis that every Indian retail investor deserves.
-
-| Feature | Stack |
-|---------|-------|
-| 📄 CAS PDF parsing (CAMS + KFintech) | pdfplumber + Python |
-| 📊 XIRR per fund + portfolio | scipy.optimize.brentq |
-| 🔄 Fund overlap heatmap | NAV correlation engine |
-| 💰 Tax P&L (STCG/LTCG/ELSS lock-in) | FIFO lot matching |
-| 🏥 Portfolio health score (0–100) | 5-dimension composite scorer |
-| 📈 Benchmark comparison + alpha | vs Nifty 50 / Midcap / Smallcap TRI |
-| 🎯 Goal tracking + rebalancing | SIP PMT calculator |
-| 🤖 AI Portfolio Q&A | Claude Sonnet API |
-| 💳 Subscription billing | Razorpay free/investor/pro tiers |
-
-Built in **20 weekends** on a **₹25,000 budget**. Infra cost before first paying user: **₹2,300/month**.
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Chart%20Increasing.png" alt="Stats" width="30" /> GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=premranjith&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=premranjith&theme=react&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=3B82F6&currStreakNum=3B82F6" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=premranjith&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF&area=true&hide_border=true" width="95%" />
-</p>
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="Connect" width="30" /> Let's Connect
 
 <p align="center">
   <a href="https://github.com/premranjith">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://komarev.com/ghpvc/?username=premranjith&label=Profile%20Views&color=3B82F6&style=flat"/>
   </a>
-  <a href="https://www.linkedin.com/in/prem-ranjith-janakiraman-9a269157/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://github.com/premranjith?tab=followers">
+    <img src="https://img.shields.io/github/followers/premranjith?style=social"/>
   </a>
-  <a href="mailto:premranjith@email.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/premranjith">
-    <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
+  <img src="https://img.shields.io/badge/Open%20to-Collaboration-blue"/>
+  <img src="https://img.shields.io/badge/Building-Enterprise%20AI-success"/>
 </p>
 
 ---
 
-<details>
-  <summary><b>📈 More about my building philosophy</b></summary>
-  <br />
-  <blockquote>
-    <i>"Build things that matter. Charge fairly. Bootstrap everything."</i>
-  </blockquote>
-  <p>
-    I build products the old-fashioned way — with my own hands and a clear spreadsheet.
-    MF X-Ray was born from my own frustration as an Indian mutual fund investor.
-    No tool showed me the full picture, so I built it.
-  </p>
-  <p align="center">
-    <b>Revenue model (at 1,000 users):</b><br />
-    Subscriptions: ₹74,700/mo · Affiliates: ₹20–50K/mo · Sponsored: ₹15K/mo · Ads: ₹7,500/mo
-  </p>
-</details>
+# 🚀 About Me
+
+I'm a **Technical Product Manager** and **GenAI Enterprise Architect** passionate about designing intelligent enterprise platforms that solve real engineering problems.
+
+Unlike traditional Product Managers, I believe architecture, coding, and product thinking belong together. I build the systems I design—from backend APIs and AI agents to enterprise observability platforms and production-ready SaaS products.
+
+With **10+ years of enterprise engineering experience**, my work spans:
+
+* 🤖 Enterprise GenAI Platforms
+* 🧠 AI Agents & Multi-Agent Systems
+* 🔍 AI for Observability
+* 📊 Splunk Enterprise & OpenTelemetry
+* 🏗 Enterprise Architecture
+* ⚡ Full Stack Product Development
+* 📈 Technical Product Management
+* 🚀 AI-powered Developer Platforms
+
+---
+
+# 🎯 Current Mission
+
+My goal is to become one of the leading **Enterprise GenAI Architects**, designing production-scale AI platforms that transform how engineering organizations build, monitor, and operate software.
+
+Current focus areas include:
+
+* Enterprise RAG Systems
+* Agentic AI
+* LangGraph
+* MCP (Model Context Protocol)
+* FastMCP
+* Context Engineering
+* AI Platform Engineering
+* LLMOps
+* AI Governance
+* AI Observability
+* Enterprise Search
+* Knowledge Graphs
+* Intelligent Automation
+
+---
+
+# 🧠 AI & GenAI Expertise
+
+## Enterprise AI
+
+* OpenAI
+* Claude
+* Gemini
+* Azure OpenAI
+* Ollama
+* HuggingFace
+* Prompt Engineering
+* Context Engineering
+* Structured Outputs
+* Function Calling
+
+## AI Frameworks
+
+* LangChain
+* LangGraph
+* FastMCP
+* MCP
+* CrewAI
+* AutoGen
+* LlamaIndex
+* Semantic Kernel (Learning)
+
+## RAG
+
+* Hybrid Search
+* Vector Search
+* Embeddings
+* Chunking
+* Retrieval Pipelines
+* Re-ranking
+* Knowledge Bases
+* Enterprise Search
+
+## AI Engineering
+
+* Agent Memory
+* Tool Calling
+* Reflection Loops
+* AI Evaluation
+* Guardrails
+* Prompt Testing
+* Cost Optimization
+* Model Routing
+
+---
+
+# 🔭 AI for Observability
+
+One of my biggest interests is applying AI to enterprise observability.
+
+Current exploration includes:
+
+* AI-assisted Root Cause Analysis
+* AI-powered Incident Intelligence
+* Natural Language → SPL
+* AI-generated Dashboards
+* Intelligent Alert Correlation
+* Predictive Monitoring
+* AIOps
+* Automated Runbooks
+* LLM-powered Log Analytics
+* Incident Summarization
+* Service Health Intelligence
+* AI-assisted Troubleshooting
+
+---
+
+# 📊 Observability Stack
+
+* Splunk Enterprise
+* Splunk ITSI
+* OpenTelemetry
+* Grafana
+* Prometheus
+* Loki
+* Tempo
+* Datadog
+* ELK
+* Fluent Bit
+* Fluentd
+
+---
+
+# 💻 Full Stack Development
+
+### Frontend
+
+* React
+* Next.js
+* TypeScript
+* Tailwind CSS
+* Recharts
+
+### Backend
+
+* Python
+* FastAPI
+* PostgreSQL
+* Supabase
+* REST APIs
+* Pydantic
+
+### DevOps
+
+* Docker
+* GitHub Actions
+* Vercel
+* Render
+* Git
+* Linux
+
+---
+
+# 🏢 Enterprise Experience
+
+For more than a decade I've worked on enterprise engineering solutions including:
+
+* Enterprise Reporting Platforms
+* Product Lifecycle Management
+* Application Lifecycle Management
+* Manufacturing Analytics
+* Data Analytics
+* Dashboard Engineering
+* Splunk Enterprise Platforms
+* Monitoring Platforms
+* Automation Frameworks
+* GenAI Solutions
+* Internal Developer Platforms
+
+---
+
+# 🚀 Featured Projects
+
+## 🤖 Enterprise AI Projects
+
+### AI-powered Splunk Applications
+
+Building enterprise AI assistants for observability, search, and incident management.
+
+### Enterprise MCP Servers
+
+Building production-ready MCP servers for enterprise integrations.
+
+### AI Observability Platform
+
+Monitoring AI applications using OpenTelemetry, LangFuse, and modern observability stacks.
+
+### Enterprise RAG Systems
+
+Building secure enterprise knowledge assistants.
+
+---
+
+## 💰 MF X-Ray
+
+An institutional-grade Mutual Fund Portfolio Analyzer for Indian investors.
+
+### Features
+
+* CAS PDF Parsing
+* Portfolio Analytics
+* XIRR Calculation
+* Goal Planning
+* Portfolio Health Score
+* Tax Analysis
+* AI Portfolio Assistant
+* Benchmark Comparison
+* Portfolio Rebalancing
+* Subscription Platform
+
+Built as a production SaaS while maintaining a full-time enterprise engineering career.
+
+---
+
+# 📚 Currently Learning
+
+2026 Deep Dive
+
+* Deep Agents
+* LangGraph
+* FastMCP
+* Context Engineering
+* AI SDK
+* Enterprise AI Architecture
+* LLMOps
+* AI Evaluation
+* AI Governance
+* AI Security
+* Kubernetes
+* Distributed AI Systems
+
+---
+
+# 🎓 Certifications
+
+* Advanced Certification Program in Generative AI & Prompt Engineering
+* Indian Institute of Science (IISc), Bangalore
+* OpenTelemetry (Linux Foundation)
+
+---
+
+# 🛠 Tech Stack
+
+## Languages
+
+Python • TypeScript • JavaScript • SQL
+
+## AI
+
+OpenAI • Claude • Gemini • LangChain • LangGraph • MCP • FastMCP • CrewAI • LlamaIndex
+
+## Backend
+
+FastAPI • PostgreSQL • Supabase
+
+## Frontend
+
+React • Next.js • Tailwind CSS
+
+## Observability
+
+Splunk • OpenTelemetry • Grafana • Prometheus • Datadog • Loki
+
+## Cloud & DevOps
+
+Docker • GitHub • Vercel • Render • Linux • GitHub Actions
+
+---
+
+# 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-</p># premranjith
+<img src="https://github-readme-stats.vercel.app/api?username=premranjith&show_icons=true&theme=react&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=premranjith&theme=react&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=premranjith&theme=react-dark"/>
+</p>
+
+---
+
+# 🌱 Open Source Goals
+
+I'm actively building and open-sourcing projects around:
+
+* Enterprise AI
+* AI Agents
+* MCP Servers
+* Splunk Integrations
+* OpenTelemetry
+* AI Observability
+* Developer Productivity
+* FinTech
+* Technical Product Management
+
+---
+
+# ✍️ Building Philosophy
+
+> **"Build things that solve real problems. Architect for scale. Automate everything. Measure everything. Ship continuously."**
+
+I enjoy transforming complex enterprise challenges into elegant software products.
+
+Whether it's an AI platform, an observability solution, or a fintech SaaS, my focus is always the same:
+
+* Build production-grade systems.
+* Make technology simple.
+* Create measurable business impact.
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://github.com/premranjith">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/prem-ranjith-janakiraman-9a269157/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:your-email@example.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+### 🚀 Building the future of Enterprise AI, Intelligent Observability & Developer Platforms.
+
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer"/>
+</p>
